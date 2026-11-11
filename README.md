@@ -19,9 +19,10 @@ Backend Developer focused on **Java, Spring Boot, and Microservices**.  I enjoy 
 - Maven
 - Mysql
 
-**Frontend (Learning)**
+**Frontend**
 - React
 - JavaScript
+- NextJs
 
 
 ## 🛠 What I'm Building
